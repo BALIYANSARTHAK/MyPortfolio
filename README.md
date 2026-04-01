@@ -40,10 +40,4 @@ If you would like to get in touch, please reach out to me via email or linkdin.
 - CSS
 - JavaScript
 
-## Getting Started
 
-To view this portfolio locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
